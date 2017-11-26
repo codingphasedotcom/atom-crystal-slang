@@ -1,0 +1,12 @@
+{
+  "name": "crystal-slang",
+  "version": "0.2.0",
+  "private": false,
+  "description": "slang template support",
+  "repository": "https://github.com/codingphasedotcom/atom-crystal-slang",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}

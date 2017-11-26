@@ -1,0 +1,4 @@
+'.text.slang':
+  'editor':
+    'commentStart': '/ '
+    'increaseIndentPattern': '$.'
