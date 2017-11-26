@@ -1,6 +1,6 @@
 {
   "name": "crystal-slang",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "private": false,
   "description": "slang template support",
   "repository": "https://github.com/codingphasedotcom/atom-crystal-slang",
